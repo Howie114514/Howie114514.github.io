@@ -1,1 +1,0 @@
-import{j as s}from"./main-BvEwmme5.js";function r(){return s.jsxs(s.Fragment,{children:[s.jsx("div",{className:"navbar-box"}),s.jsxs("div",{className:"navbar",children:[s.jsx("img",{src:"/howie.jpg",className:"navbar-icon"}),s.jsx("h3",{children:s.jsx("a",{href:"/",children:"Howie的个人网站"})})]})]})}export{r as N};
